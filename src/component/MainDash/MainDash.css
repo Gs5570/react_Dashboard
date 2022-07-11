@@ -1,0 +1,10 @@
+.mainDash{
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-evenly;
+    /* align-self: flex-start; */
+}
+
+.Cards{
+    padding: 10px;
+}
